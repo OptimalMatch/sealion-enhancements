@@ -1,6 +1,6 @@
 """#3 — FUSION "further development": fine-tune + class-balancing (SCAFFOLD — NOT RUN HERE).
 
-Honest status: this REQUIRES the AEP training imagery + labels and a GPU, which are
+Status: this REQUIRES the AEP training imagery + labels and a GPU, which are
 NOAA-internal — so it is a *structured scaffold* showing the approach, not an executed run. It
 does NOT train a new model (PWS line 89): it continues training the EXISTING FUSION detector
 (VIAME `configs/add-ons/sea-lion/tracker_sea_lion_tracker_fusion_all_class.pipe`, an
