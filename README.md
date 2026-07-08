@@ -9,7 +9,7 @@ Image Processing & Counting Enhancement Effort (Solicitation ACQ-AONCASAT01-25-0
 detection/classification/registration models* — these are **utilities and "further
 development" of the existing FUSION/Suppression pipeline**.
 
-**Honesty:** the AEP aerial imagery, labeled training data, ground-truth counts, and model
+**Data & scope:** the AEP aerial imagery, labeled training data, ground-truth counts, and model
 weights are NOAA-internal. Items that need that data are marked *[needs AEP data]* and are
 demonstrated here on synthetic data / as schema-ready code; on real data the same code runs
 against actual detections and the survey's ~60% vertical / ~10% horizontal overlap geometry.
